@@ -42,7 +42,7 @@
 GoogleのAIプロフェッショナル認定資格を保有しており、生成AIや最新技術の活用に取り組んでいます。  
 *I hold a Google AI Professional Certificate and am actively working on integrating generative AI and cutting-edge technologies into my workflows.*
 
-<img src="img/google-ai-professional-certificate.png" width="250" alt="Google AI Professional Certificate" />
+<img src="img/google-ai-professional-certificate.png" width="120" alt="Google AI Professional Certificate" />
 
 ---
 
