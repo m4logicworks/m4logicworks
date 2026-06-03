@@ -49,6 +49,6 @@ GoogleのAIプロフェッショナル認定資格を保有しており、生成
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4logicworks&show_icons=true&theme=nord&locale=ja" alt="m4logicworks's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4logicworks&layout=compact&theme=nord&locale=ja" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=m4logicworks&show_icons=true&theme=nord&locale=en" alt="m4logicworks's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=m4logicworks&layout=compact&theme=nord&locale=en" alt="Top Langs" />
 </p>
